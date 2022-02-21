@@ -5,15 +5,15 @@ body {
 .body {
   display:flex;
   justify-content: center;
-  margin: 52px;
+  gap: 52px;
 }
 .container {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   text-align: center;
+  gap: 52;
   margin: 32px;
-  text-align: center;
 }
 
  img {
